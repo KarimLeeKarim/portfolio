@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.39fe9b41.chunk.css",
+    "main.js": "/portfolio/static/js/main.bb6e53a9.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.bb6e53a9.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.43d9a0ba.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.43d9a0ba.js.map",
+    "static/js/2.18d415bc.chunk.js": "/portfolio/static/js/2.18d415bc.chunk.js",
+    "static/js/2.18d415bc.chunk.js.map": "/portfolio/static/js/2.18d415bc.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.39fe9b41.chunk.css.map": "/portfolio/static/css/main.39fe9b41.chunk.css.map",
+    "static/js/2.18d415bc.chunk.js.LICENSE.txt": "/portfolio/static/js/2.18d415bc.chunk.js.LICENSE.txt",
+    "static/media/Christmas.ad442869.png": "/portfolio/static/media/Christmas.ad442869.png",
+    "static/media/Flags.5864b3e9.png": "/portfolio/static/media/Flags.5864b3e9.png",
+    "static/media/KarimLee.e58019c2.jpg": "/portfolio/static/media/KarimLee.e58019c2.jpg",
+    "static/media/App.scss": "/portfolio/static/media/dots.9978678b.svg",
+    "static/media/emailme.a60657eb.svg": "/portfolio/static/media/emailme.a60657eb.svg",
+    "static/media/location.5cd6776e.svg": "/portfolio/static/media/location.5cd6776e.svg",
+    "static/media/phone.ef86e22a.svg": "/portfolio/static/media/phone.ef86e22a.svg",
+    "static/media/shortly.99191a6d.png": "/portfolio/static/media/shortly.99191a6d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43d9a0ba.js",
+    "static/js/2.18d415bc.chunk.js",
+    "static/css/main.39fe9b41.chunk.css",
+    "static/js/main.bb6e53a9.chunk.js"
+  ]
+}
