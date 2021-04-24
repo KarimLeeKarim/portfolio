@@ -9,11 +9,9 @@ import { useState } from 'react';
 
 function App() {
   const [navToggle, setNavToggle] = useState(false);
-
   const navClick = () =>{
     setNavToggle(!navToggle)
   }
-
   return (
     <div className="App">
       <div className={`sidebar ${navToggle ? 'nav-toggle': ''}`}>
@@ -45,5 +43,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
