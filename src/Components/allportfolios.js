@@ -16,7 +16,7 @@ const portfolios = [
     {
         id: 2,
         // category: 'Python',
-        link1: 'https://flags-of-countries.herokuapp.com/',
+        link1: 'https://karimleekarim.github.io/flags-of-countries/',
         icon1: 'Flags Info',
         image: port2,
         title: 'Flags of Countries',
@@ -25,7 +25,7 @@ const portfolios = [
     {
         id: 3,
         // category: 'Python',
-        link1: 'https://shortly-api-react.herokuapp.com/',
+        link1: 'https://karimleekarim.github.io/shortly/',
         icon1: 'Shortly',
         image: port3,
         title: 'Shortly',
