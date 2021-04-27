@@ -1,5 +1,5 @@
 import React from 'react';
-import about from '../img/portImages/KarimLee.jpg';
+import about from '../img/portImages/KarimliKarim.jpg';
 
 function ImageSection() {
     return (

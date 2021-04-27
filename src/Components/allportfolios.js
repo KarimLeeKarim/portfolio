@@ -29,7 +29,7 @@ const portfolios = [
         icon1: 'Shortly',
         image: port3,
         title: 'Shortly',
-        subtitle:'SASS, React JS, working with Rest Countries API'
+        subtitle:'React JS, SASS, working with API which able to short URLs'
     },
 ]
 
