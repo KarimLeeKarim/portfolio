@@ -14,7 +14,7 @@ function HomePage() {
                     <span> Karimli Karim.</span>
                 </h1>
                 <p className="h-sub-text">
-                I'm a Junior Web Developer with 1 year of experience. The projects that I have been working on are websites built from scratch and used modern libraries and frameworks such as React, jQuery.<br></br> Please, check my GitHub in down link.
+                I'm a Junior Web Developer with 1.5 year of experience. The projects that I have been working on are websites built from scratch and used modern libraries and frameworks such as React, jQuery.<br></br> Please, check my GitHub in down link.
                 </p>
                 <div className="icons">
                     <a href="https://github.com/KarimLeeKarim" className="icon-holder">
