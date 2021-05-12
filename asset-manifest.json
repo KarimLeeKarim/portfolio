@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.39fe9b41.chunk.css",
-    "main.js": "/portfolio/static/js/main.04f20fc7.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.04f20fc7.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.cb0fa777.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.cb0fa777.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.43d9a0ba.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.43d9a0ba.js.map",
     "static/js/2.18d415bc.chunk.js": "/portfolio/static/js/2.18d415bc.chunk.js",
@@ -13,6 +13,7 @@
     "static/media/Christmas.ad442869.png": "/portfolio/static/media/Christmas.ad442869.png",
     "static/media/Flags.5864b3e9.png": "/portfolio/static/media/Flags.5864b3e9.png",
     "static/media/KarimliKarim.ffed1b76.jpg": "/portfolio/static/media/KarimliKarim.ffed1b76.jpg",
+    "static/media/burger.5ffd3416.png": "/portfolio/static/media/burger.5ffd3416.png",
     "static/media/App.scss": "/portfolio/static/media/dots.9978678b.svg",
     "static/media/emailme.a60657eb.svg": "/portfolio/static/media/emailme.a60657eb.svg",
     "static/media/location.5cd6776e.svg": "/portfolio/static/media/location.5cd6776e.svg",
@@ -23,6 +24,6 @@
     "static/js/runtime-main.43d9a0ba.js",
     "static/js/2.18d415bc.chunk.js",
     "static/css/main.39fe9b41.chunk.css",
-    "static/js/main.04f20fc7.chunk.js"
+    "static/js/main.cb0fa777.chunk.js"
   ]
 }
