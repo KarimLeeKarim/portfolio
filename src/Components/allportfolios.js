@@ -1,7 +1,8 @@
 import port1 from '../img/portImages/Christmas.png';
-import port2 from '../img/portImages/burger.png';
+import port2 from '../img/portImages/Tank.png';
 import port3 from '../img/portImages/Flags.png';
-import port4 from '../img/portImages/shortly.png';
+import port4 from '../img/portImages/burger.png';
+import port5 from '../img/portImages/shortly.png';
 
 
 const portfolios = [
@@ -17,11 +18,11 @@ const portfolios = [
     {
         id: 2,
         // category: 'Python',
-        link1: 'https://order-fastfood-all.herokuapp.com/',
-        icon1: 'Fast Food',
+        link1: 'https://world-of-tank.herokuapp.com/',
+        icon1: 'Game',
         image: port2,
-        title: 'Order Fast-Food',
-        subtitle: 'Node JS, Mongo DB, React JS, React Routing, Context API, Material UI'
+        title: 'World of Tank',
+        subtitle: 'React JS, CSS, Hooks, Context API'
     },
     {
         id: 3,
@@ -35,9 +36,18 @@ const portfolios = [
     {
         id: 4,
         // category: 'Python',
+        link1: 'https://order-fastfood-all.herokuapp.com/',
+        icon1: 'Fast Food',
+        image: port4,
+        title: 'Order Fast-Food',
+        subtitle: 'Node JS, Mongo DB, React JS, React Routing, Context API, Material UI '
+    },
+    {
+        id: 5,
+        // category: 'Python',
         link1: 'https://karimleekarim.github.io/shortly/',
         icon1: 'Shortly',
-        image: port4,
+        image: port5,
         title: 'Shortly',
         subtitle: 'React JS, SASS, working with API which able to short URLs'
     },
