@@ -12,7 +12,7 @@ function ImageSection() {
                 <div className="about-details">
                     <div className="left-section">
                         <p>Full Name : Karimli Karim</p>
-                        <p>Age : 26</p>
+                        <p>Age : 27</p>
                         <p>Nationality : Azerbaijan</p>
                         <p>Languages : Azerbaijan, Russian, English, Turkish</p>
                         <p className="tech">Education : Dmitry Mendeleev University of Chemical Technology of Russia. Specialty- Service & Tourism</p>
